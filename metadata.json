@@ -1,0 +1,8 @@
+{
+  "name": "Libertadores 1819",
+  "description": "Videojuego beat 'em up ambientado en la Independencia de Colombia con Simón Bolívar y Francisco de Paula Santander.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
